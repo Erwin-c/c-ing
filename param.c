@@ -1,3 +1,10 @@
+/*
+ * param.c
+ *
+ *  Created on: Feb 6, 2021
+ *      Author: Erwin
+ */
+
 #include <stdio.h>
 
 /* If no void in parameter list. */
@@ -16,3 +23,4 @@ void empty_param_list(void)
   puts("Hello");
   return;
 }
+
