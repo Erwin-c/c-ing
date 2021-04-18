@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-/* If no void in parameter list. */
+/* If there is no void in parameter list. */
 /* C reckons parameters are unspecific. */
 /* C++ reckons there is no parameter. */
 void empty_param_list(void);
